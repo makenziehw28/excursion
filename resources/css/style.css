@@ -25,3 +25,9 @@ body {
     color:grey;
     font-size: 21px;
 }
+
+.footer{
+    text-align: right;
+    font-size: 21px;
+    color: gray;
+}
